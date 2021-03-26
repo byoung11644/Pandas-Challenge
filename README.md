@@ -1,6 +1,6 @@
 # Pandas-Challenge
 
-In my latest role, I've become the Chief Data Scientist for my city's school district. In this capacity, I'll be helping the  school board and mayor make strategic decisions regarding future school budgets and priorities.
+In this example, I've become the Chief Data Scientist for my city's school district. In this capacity, I'll be helping the school board and mayor make strategic decisions regarding future school budgets and priorities.
 
 As a first task, I've been asked to analyze the district-wide standardized test results. I'll be given access to every student's math and reading scores, as well as various information on the schools they attend. My responsibility is to aggregate the data to and showcase obvious trends in school performance.
 
@@ -30,7 +30,7 @@ The final report should include each of the following:
   * Average Reading Score
   * % Passing Math (The percentage of students that passed math.)
   * % Passing Reading (The percentage of students that passed reading.)
-  * % Overall Passing (The percentage of students that passed math **and** reading.)
+  * % Overall Passing (The percentage of students that passed math *and* reading.)
 
 ### Top Performing Schools (By % Overall Passing)
 
@@ -44,7 +44,7 @@ The final report should include each of the following:
   * Average Reading Score
   * % Passing Math (The percentage of students that passed math.)
   * % Passing Reading (The percentage of students that passed reading.)
-  * % Overall Passing (The percentage of students that passed math **and** reading.)
+  * % Overall Passing (The percentage of students that passed math *and* reading.)
 
 ### Bottom Performing Schools (By % Overall Passing)
 
@@ -65,7 +65,7 @@ The final report should include each of the following:
   * Average Reading Score
   * % Passing Math (The percentage of students that passed math.)
   * % Passing Reading (The percentage of students that passed reading.)
-  * % Overall Passing (The percentage of students that passed math **and** reading.)
+  * % Overall Passing (The percentage of students that passed math *and* reading.)
 
 ### Scores by School Size
 
