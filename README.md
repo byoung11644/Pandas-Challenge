@@ -74,3 +74,6 @@ The final report should include each of the following:
 ### Scores by School Type
 
 * Repeat the above breakdown, but this time group schools based on school type (Charter vs. District).
+
+Copyright
+Trilogy Education Services © 2020. All Rights Reserved.
